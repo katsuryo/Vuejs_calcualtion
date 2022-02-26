@@ -1,3 +1,3 @@
 # Vuejs_calcualtion
 
-Vue.jsを用いた計算機アプリの作成
+Vue.jsを用いた加算アプリの作成
